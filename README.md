@@ -1,4 +1,4 @@
-# hexacom_user
+# DS-User applcation and website
 
 A new Flutter restaurant application.
 
