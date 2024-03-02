@@ -16,7 +16,6 @@ import 'package:hexacom_user/features/flash_sale/providers/flash_sale_provider.d
 import 'package:hexacom_user/utill/routes.dart';
 import 'package:hexacom_user/common/widgets/third_party_chat_widget.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
