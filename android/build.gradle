@@ -1,15 +1,15 @@
 buildscript {
-    ext.kotlin_version = '1.9.21'
+    ext.kotlin_version = '1.7.10'
     repositories {
         google()
         jcenter()
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.2.1'
+        classpath 'com.android.tools.build:gradle:8.1.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        classpath 'com.google.gms:google-services:4.3.15'
-        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.9'
+        classpath 'com.google.gms:google-services:4.3.10' // Latest version as of my last update
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.8.1' // Latest version as of my last update
     }
 }
 
