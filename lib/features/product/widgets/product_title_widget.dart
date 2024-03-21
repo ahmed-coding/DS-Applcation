@@ -1,8 +1,8 @@
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/features/product/providers/product_provider.dart';
-import 'package:hexacom_user/utill/color_resources.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/features/product/providers/product_provider.dart';
+import 'package:digitstitch_user/utill/color_resources.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

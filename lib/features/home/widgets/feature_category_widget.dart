@@ -1,13 +1,13 @@
-import 'package:hexacom_user/common/models/category_model.dart';
-import 'package:hexacom_user/common/models/feature_category_model.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/features/product/providers/product_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/common/widgets/custom_shadow_widget.dart';
-import 'package:hexacom_user/common/widgets/custom_slider_list_widget.dart';
-import 'package:hexacom_user/common/widgets/product_card_widget.dart';
-import 'package:hexacom_user/common/widgets/title_widget.dart';
+import 'package:digitstitch_user/common/models/category_model.dart';
+import 'package:digitstitch_user/common/models/feature_category_model.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/features/product/providers/product_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/custom_shadow_widget.dart';
+import 'package:digitstitch_user/common/widgets/custom_slider_list_widget.dart';
+import 'package:digitstitch_user/common/widgets/product_card_widget.dart';
+import 'package:digitstitch_user/common/widgets/title_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

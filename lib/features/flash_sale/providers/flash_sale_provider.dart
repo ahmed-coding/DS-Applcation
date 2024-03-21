@@ -1,10 +1,10 @@
 import 'dart:async';
-import 'package:hexacom_user/common/enums/product_filter_type_enum.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/features/flash_sale/domain/models/flash_sale_model.dart';
-import 'package:hexacom_user/common/reposotories/product_repo.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
-import 'package:hexacom_user/helper/date_converter_helper.dart';
+import 'package:digitstitch_user/common/enums/product_filter_type_enum.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/features/flash_sale/domain/models/flash_sale_model.dart';
+import 'package:digitstitch_user/common/reposotories/product_repo.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/helper/date_converter_helper.dart';
 import 'package:flutter/cupertino.dart';
 
 class FlashSaleProvider extends ChangeNotifier {

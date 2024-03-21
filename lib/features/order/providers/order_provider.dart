@@ -1,19 +1,19 @@
 
 import 'dart:async';
 
-import 'package:hexacom_user/common/models/place_order_model.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/cart_model.dart';
-import 'package:hexacom_user/features/order/domain/models/delivery_man_model.dart';
-import 'package:hexacom_user/common/models/order_details_model.dart';
-import 'package:hexacom_user/common/models/order_model.dart';
-import 'package:hexacom_user/common/models/reorder_details_model.dart';
-import 'package:hexacom_user/common/models/response_model.dart';
-import 'package:hexacom_user/features/order/domain/reposotories/order_repo.dart';
-import 'package:hexacom_user/features/track/providers/order_map_provider.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
-import 'package:hexacom_user/helper/order_helper.dart';
-import 'package:hexacom_user/main.dart';
+import 'package:digitstitch_user/common/models/place_order_model.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/cart_model.dart';
+import 'package:digitstitch_user/features/order/domain/models/delivery_man_model.dart';
+import 'package:digitstitch_user/common/models/order_details_model.dart';
+import 'package:digitstitch_user/common/models/order_model.dart';
+import 'package:digitstitch_user/common/models/reorder_details_model.dart';
+import 'package:digitstitch_user/common/models/response_model.dart';
+import 'package:digitstitch_user/features/order/domain/reposotories/order_repo.dart';
+import 'package:digitstitch_user/features/track/providers/order_map_provider.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/helper/order_helper.dart';
+import 'package:digitstitch_user/main.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

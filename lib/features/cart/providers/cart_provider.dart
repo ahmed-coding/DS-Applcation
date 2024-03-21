@@ -1,8 +1,8 @@
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/common/models/cart_model.dart';
-import 'package:hexacom_user/features/cart/domain/reposotories/cart_repo.dart';
+import 'package:digitstitch_user/common/models/cart_model.dart';
+import 'package:digitstitch_user/features/cart/domain/reposotories/cart_repo.dart';
 
 class CartProvider extends ChangeNotifier {
   final CartRepo? cartRepo;

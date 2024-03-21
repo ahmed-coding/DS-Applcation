@@ -1,11 +1,11 @@
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/features/cart/providers/cart_provider.dart';
-import 'package:hexacom_user/features/product/providers/product_provider.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/common/widgets/custom_image_widget.dart';
-import 'package:hexacom_user/common/widgets/custom_zoom_widget.dart';
-import 'package:hexacom_user/common/widgets/wish_button_widget.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/features/cart/providers/cart_provider.dart';
+import 'package:digitstitch_user/features/product/providers/product_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/common/widgets/custom_image_widget.dart';
+import 'package:digitstitch_user/common/widgets/custom_zoom_widget.dart';
+import 'package:digitstitch_user/common/widgets/wish_button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

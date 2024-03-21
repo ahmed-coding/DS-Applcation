@@ -3,10 +3,10 @@ library country_code_picker;
 // ignore: depend_on_referenced_packages
 import 'package:collection/collection.dart';
 import 'package:country_code_picker/country_code_picker.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_directionality_widget.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_directionality_widget.dart';
 import 'package:flutter/material.dart';
 
 class CodePickerWidget extends StatefulWidget {

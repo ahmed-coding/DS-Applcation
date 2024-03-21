@@ -1,12 +1,12 @@
-import 'package:hexacom_user/common/widgets/rating_bar_widget.dart';
-import 'package:hexacom_user/features/product/providers/product_provider.dart';
-import 'package:hexacom_user/features/product/widgets/rating_line_widget.dart';
-import 'package:hexacom_user/features/product/widgets/review_widget.dart';
-import 'package:hexacom_user/features/rate_review/providers/rate_review_provider.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/rating_bar_widget.dart';
+import 'package:digitstitch_user/features/product/providers/product_provider.dart';
+import 'package:digitstitch_user/features/product/widgets/rating_line_widget.dart';
+import 'package:digitstitch_user/features/product/widgets/review_widget.dart';
+import 'package:digitstitch_user/features/rate_review/providers/rate_review_provider.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

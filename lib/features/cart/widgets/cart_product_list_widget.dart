@@ -1,5 +1,5 @@
-import 'package:hexacom_user/features/cart/providers/cart_provider.dart';
-import 'package:hexacom_user/features/cart/widgets/cart_product_widget.dart';
+import 'package:digitstitch_user/features/cart/providers/cart_provider.dart';
+import 'package:digitstitch_user/features/cart/widgets/cart_product_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:hexacom_user/common/models/category_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
+import 'package:digitstitch_user/common/models/category_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
 
 class FeatureCategoryModel {
   List<FeaturedCategory>? featuredData;

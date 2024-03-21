@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/common/widgets/rating_bar_widget.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/common/widgets/rating_bar_widget.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
 
 class ProductShimmerWidget extends StatelessWidget {

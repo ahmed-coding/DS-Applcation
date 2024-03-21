@@ -1,6 +1,6 @@
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/features/order/providers/order_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/features/order/providers/order_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';

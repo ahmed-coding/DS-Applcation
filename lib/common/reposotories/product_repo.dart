@@ -1,11 +1,11 @@
 
-import 'package:hexacom_user/common/enums/product_filter_type_enum.dart';
-import 'package:hexacom_user/data/datasource/remote/dio/dio_client.dart';
-import 'package:hexacom_user/data/datasource/remote/exception/api_error_handler.dart';
-import 'package:hexacom_user/common/models/review_body_model.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/helper/product_helper.dart';
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/common/enums/product_filter_type_enum.dart';
+import 'package:digitstitch_user/data/datasource/remote/dio/dio_client.dart';
+import 'package:digitstitch_user/data/datasource/remote/exception/api_error_handler.dart';
+import 'package:digitstitch_user/common/models/review_body_model.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/helper/product_helper.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 
 class ProductRepo {
   final DioClient? dioClient;

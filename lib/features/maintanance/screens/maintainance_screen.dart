@@ -1,7 +1,7 @@
 
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/images.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/images.dart';
 import 'package:flutter/material.dart';
 
 class MaintenanceScreen extends StatelessWidget {

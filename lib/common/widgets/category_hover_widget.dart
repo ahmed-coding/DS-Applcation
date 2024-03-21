@@ -1,9 +1,9 @@
-import 'package:hexacom_user/common/models/category_model.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/utill/color_resources.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/common/widgets/text_hover_widget.dart';
+import 'package:digitstitch_user/common/models/category_model.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/utill/color_resources.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/text_hover_widget.dart';
 import 'package:flutter/material.dart';
 
 class CategoryHoverWidget extends StatelessWidget {

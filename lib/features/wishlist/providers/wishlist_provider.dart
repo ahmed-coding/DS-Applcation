@@ -1,11 +1,11 @@
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/features/wishlist/domain/models/wishlist_model.dart';
-import 'package:hexacom_user/features/wishlist/domain/reposotories/wishlist_repo.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/features/wishlist/domain/models/wishlist_model.dart';
+import 'package:digitstitch_user/features/wishlist/domain/reposotories/wishlist_repo.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
 import 'package:flutter/material.dart';
 
 class WishListProvider extends ChangeNotifier {

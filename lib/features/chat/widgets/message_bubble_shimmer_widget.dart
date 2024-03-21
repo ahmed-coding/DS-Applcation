@@ -1,4 +1,4 @@
-import 'package:hexacom_user/features/chat/providers/chat_provider.dart';
+import 'package:digitstitch_user/features/chat/providers/chat_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';

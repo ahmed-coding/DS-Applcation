@@ -1,14 +1,14 @@
 
 import 'dart:async';
 
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/check_out_model.dart';
-import 'package:hexacom_user/common/models/config_model.dart';
-import 'package:hexacom_user/common/models/response_model.dart';
-import 'package:hexacom_user/features/order/domain/models/distance_model.dart';
-import 'package:hexacom_user/features/order/domain/reposotories/order_repo.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/check_out_model.dart';
+import 'package:digitstitch_user/common/models/config_model.dart';
+import 'package:digitstitch_user/common/models/response_model.dart';
+import 'package:digitstitch_user/features/order/domain/models/distance_model.dart';
+import 'package:digitstitch_user/features/order/domain/reposotories/order_repo.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

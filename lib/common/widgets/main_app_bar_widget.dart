@@ -1,10 +1,10 @@
-import 'package:hexacom_user/common/widgets/custom_image_widget.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/common/widgets/custom_image_widget.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/utill/images.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/common/widgets/menu_bar.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/utill/images.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/menu_bar.dart';
 import 'package:provider/provider.dart';
 
 class MainAppBarWidget extends StatelessWidget implements PreferredSizeWidget {

@@ -1,9 +1,9 @@
 
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/features/chat/domain/models/chat_model.dart';
-import 'package:hexacom_user/common/models/order_model.dart';
-import 'package:hexacom_user/features/chat/domain/reposotories/chat_repo.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/features/chat/domain/models/chat_model.dart';
+import 'package:digitstitch_user/common/models/order_model.dart';
+import 'package:digitstitch_user/features/chat/domain/reposotories/chat_repo.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
 import 'package:http/http.dart' as http;
 
 import 'package:flutter/material.dart';

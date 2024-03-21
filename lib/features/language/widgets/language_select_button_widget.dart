@@ -1,14 +1,14 @@
-import 'package:hexacom_user/common/widgets/custom_button_widget.dart';
-import 'package:hexacom_user/features/onboarding/providers/onboarding_provider.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/provider/language_provider.dart';
-import 'package:hexacom_user/provider/localization_provider.dart';
-import 'package:hexacom_user/utill/app_constants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/custom_button_widget.dart';
+import 'package:digitstitch_user/features/onboarding/providers/onboarding_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/provider/language_provider.dart';
+import 'package:digitstitch_user/provider/localization_provider.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

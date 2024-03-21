@@ -1,6 +1,6 @@
-import 'package:hexacom_user/common/models/cart_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/helper/price_converter_helper.dart';
+import 'package:digitstitch_user/common/models/cart_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/helper/price_converter_helper.dart';
 
 class CartHelper{
   static CartModel? getCartModel(Product product, {List<int>? variationIndexList, int? quantity}){

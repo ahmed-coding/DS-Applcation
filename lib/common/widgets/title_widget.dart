@@ -1,8 +1,8 @@
-import 'package:hexacom_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 
 class TitleWidget extends StatelessWidget {
   final String? title;

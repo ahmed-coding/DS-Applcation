@@ -1,6 +1,6 @@
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 
 const rubikRegular = TextStyle(
   fontFamily: AppConstants.fontFamily,

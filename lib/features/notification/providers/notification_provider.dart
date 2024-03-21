@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/features/notification/domain/models/notification_model.dart';
-import 'package:hexacom_user/features/notification/domain/reposotories/notification_repo.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/features/notification/domain/models/notification_model.dart';
+import 'package:digitstitch_user/features/notification/domain/reposotories/notification_repo.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
 
 class NotificationProvider extends ChangeNotifier {
   final NotificationRepo? notificationRepo;

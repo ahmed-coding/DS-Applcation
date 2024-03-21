@@ -1,4 +1,4 @@
-import 'package:hexacom_user/common/models/product_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
 
 class OrderModel {
   int? _id;

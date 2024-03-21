@@ -1,15 +1,15 @@
-import 'package:hexacom_user/common/widgets/custom_pop_scope_widget.dart';
+import 'package:digitstitch_user/common/widgets/custom_pop_scope_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/utill/color_resources.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/images.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_button_widget.dart';
-import 'package:hexacom_user/common/widgets/main_app_bar_widget.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/utill/color_resources.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/images.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_button_widget.dart';
+import 'package:digitstitch_user/common/widgets/main_app_bar_widget.dart';
 import 'package:provider/provider.dart';
 
 class WelcomeScreen extends StatelessWidget {

@@ -1,10 +1,10 @@
-import 'package:hexacom_user/features/home/enums/banner_type_enum.dart';
+import 'package:digitstitch_user/features/home/enums/banner_type_enum.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/features/home/domain/models/banner_model.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/features/home/domain/reposotories/banner_repo.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/features/home/domain/models/banner_model.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/features/home/domain/reposotories/banner_repo.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
 
 class BannerProvider extends ChangeNotifier {
   final BannerRepo? bannerRepo;

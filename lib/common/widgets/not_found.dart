@@ -1,6 +1,6 @@
-import 'package:hexacom_user/common/enums/footer_type_enum.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/common/widgets/footer_web_widget.dart';
+import 'package:digitstitch_user/common/enums/footer_type_enum.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/common/widgets/footer_web_widget.dart';
 import 'package:flutter/material.dart';
 
 import 'web_app_bar_widget.dart';

@@ -1,13 +1,13 @@
-import 'package:hexacom_user/common/enums/footer_type_enum.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/common/widgets/footer_web_widget.dart';
+import 'package:digitstitch_user/common/enums/footer_type_enum.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/footer_web_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/images.dart';
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_button_widget.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/images.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_button_widget.dart';
 
 class NotLoggedInScreen extends StatelessWidget {
   const NotLoggedInScreen({Key? key}) : super(key: key);

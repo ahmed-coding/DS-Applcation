@@ -1,6 +1,6 @@
-import 'package:hexacom_user/common/widgets/text_hover_widget.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/text_hover_widget.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
 
 class CartCountWidget extends StatelessWidget {

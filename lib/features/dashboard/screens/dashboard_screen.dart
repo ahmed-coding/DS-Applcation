@@ -1,20 +1,20 @@
 
-import 'package:hexacom_user/features/home/screens/home_screen.dart';
-import 'package:hexacom_user/helper/cart_helper.dart';
-import 'package:hexacom_user/helper/network_info_helper.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/features/cart/providers/cart_provider.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/features/wishlist/providers/wishlist_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_pop_scope_widget.dart';
-import 'package:hexacom_user/common/widgets/third_party_chat_widget.dart';
-import 'package:hexacom_user/features/cart/screens/cart_screen.dart';
-import 'package:hexacom_user/features/menu/screens/menu_screen.dart';
-import 'package:hexacom_user/features/wishlist/screens/wishlist_screen.dart';
+import 'package:digitstitch_user/features/home/screens/home_screen.dart';
+import 'package:digitstitch_user/helper/cart_helper.dart';
+import 'package:digitstitch_user/helper/network_info_helper.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/features/cart/providers/cart_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/features/wishlist/providers/wishlist_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_pop_scope_widget.dart';
+import 'package:digitstitch_user/common/widgets/third_party_chat_widget.dart';
+import 'package:digitstitch_user/features/cart/screens/cart_screen.dart';
+import 'package:digitstitch_user/features/menu/screens/menu_screen.dart';
+import 'package:digitstitch_user/features/wishlist/screens/wishlist_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

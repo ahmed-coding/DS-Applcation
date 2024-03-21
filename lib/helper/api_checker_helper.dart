@@ -1,10 +1,10 @@
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/error_response_model.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/error_response_model.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
 import 'package:provider/provider.dart';
 
 

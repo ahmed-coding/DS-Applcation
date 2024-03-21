@@ -1,5 +1,5 @@
 
-import 'package:hexacom_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
 import 'package:flutter/material.dart';
 
 class OnHover extends StatelessWidget {

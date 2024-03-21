@@ -1,6 +1,6 @@
-import 'package:hexacom_user/common/models/language_model.dart';
-import 'package:hexacom_user/common/enums/app_mode.dart';
-import 'package:hexacom_user/utill/images.dart';
+import 'package:digitstitch_user/common/models/language_model.dart';
+import 'package:digitstitch_user/common/enums/app_mode.dart';
+import 'package:digitstitch_user/utill/images.dart';
 
 class AppConstants {
   static const String appName = 'DigitStitch';

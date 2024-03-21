@@ -1,15 +1,15 @@
-import 'package:hexacom_user/common/models/order_details_model.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/features/order/providers/order_provider.dart';
-import 'package:hexacom_user/features/product/providers/product_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_alert_dialog_widget.dart';
-import 'package:hexacom_user/common/widgets/custom_button_widget.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
-import 'package:hexacom_user/features/rate_review/screens/rate_review_screen.dart';
+import 'package:digitstitch_user/common/models/order_details_model.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/features/order/providers/order_provider.dart';
+import 'package:digitstitch_user/features/product/providers/product_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_alert_dialog_widget.dart';
+import 'package:digitstitch_user/common/widgets/custom_button_widget.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/features/rate_review/screens/rate_review_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

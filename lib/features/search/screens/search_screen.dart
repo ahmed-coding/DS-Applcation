@@ -1,14 +1,14 @@
 
-import 'package:hexacom_user/common/widgets/custom_app_bar_widget.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_app_bar_widget.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/features/search/providers/search_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/images.dart';
-import 'package:hexacom_user/utill/routes.dart';
-import 'package:hexacom_user/common/widgets/custom_text_field_widget.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/features/search/providers/search_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/images.dart';
+import 'package:digitstitch_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/custom_text_field_widget.dart';
 import 'package:provider/provider.dart';
 
 class SearchScreen extends StatefulWidget {

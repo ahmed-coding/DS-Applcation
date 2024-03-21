@@ -1,9 +1,9 @@
-import 'package:hexacom_user/features/address/providers/location_provider.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/features/address/providers/location_provider.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/features/address/providers/address_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/features/address/providers/address_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:google_maps_webservice/places.dart';

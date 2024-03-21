@@ -1,5 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:hexacom_user/utill/images.dart';
+import 'package:digitstitch_user/utill/images.dart';
 import 'package:flutter/cupertino.dart';
 
 class CustomImageWidget extends StatelessWidget {

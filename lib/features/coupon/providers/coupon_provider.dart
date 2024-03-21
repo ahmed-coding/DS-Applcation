@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/features/coupon/domain/models/coupon_model.dart';
-import 'package:hexacom_user/features/coupon/domain/reposotories/coupon_repo.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/features/coupon/domain/models/coupon_model.dart';
+import 'package:digitstitch_user/features/coupon/domain/reposotories/coupon_repo.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
 
 class CouponProvider extends ChangeNotifier {
   final CouponRepo? couponRepo;

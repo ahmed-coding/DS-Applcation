@@ -1,5 +1,5 @@
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
 import 'package:intl/intl.dart';
 
 class DateConverterHelper {

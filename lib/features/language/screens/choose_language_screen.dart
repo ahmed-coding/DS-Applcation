@@ -1,12 +1,12 @@
 
-import 'package:hexacom_user/common/widgets/custom_pop_scope_widget.dart';
-import 'package:hexacom_user/common/widgets/language_select_widget.dart';
-import 'package:hexacom_user/features/language/widgets/language_select_button_widget.dart';
-import 'package:hexacom_user/features/language/widgets/search_language_widget.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/provider/language_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_pop_scope_widget.dart';
+import 'package:digitstitch_user/common/widgets/language_select_widget.dart';
+import 'package:digitstitch_user/features/language/widgets/language_select_button_widget.dart';
+import 'package:digitstitch_user/features/language/widgets/search_language_widget.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/provider/language_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

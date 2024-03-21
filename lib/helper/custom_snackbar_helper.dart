@@ -1,7 +1,7 @@
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 
 void showCustomSnackBar(String? message, BuildContext context, {bool isError = true, Duration? duration}) {
   final width = MediaQuery.of(context).size.width;

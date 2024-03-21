@@ -1,7 +1,7 @@
-import 'package:hexacom_user/features/home/widgets/arrow_icon_button_widget.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/features/home/widgets/arrow_icon_button_widget.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
 
 class CustomSliderListWidget extends StatefulWidget {

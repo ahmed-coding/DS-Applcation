@@ -1,8 +1,8 @@
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/utill/color_resources.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/color_resources.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 
 class CustomButtonWidget extends StatelessWidget {
   final Function? onTap;

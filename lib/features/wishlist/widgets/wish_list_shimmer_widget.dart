@@ -1,6 +1,6 @@
-import 'package:hexacom_user/common/widgets/product_shimmer_widget.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/common/widgets/product_shimmer_widget.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
 
 class WishLIstShimmerWidget extends StatelessWidget {

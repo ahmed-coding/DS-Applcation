@@ -1,4 +1,4 @@
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:flutter/material.dart';
 
 ThemeData dark = ThemeData(

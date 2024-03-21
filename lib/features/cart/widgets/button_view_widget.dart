@@ -1,12 +1,12 @@
-import 'package:hexacom_user/common/widgets/custom_button_widget.dart';
-import 'package:hexacom_user/features/checkout/providers/checkout_provider.dart';
-import 'package:hexacom_user/features/coupon/providers/coupon_provider.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
-import 'package:hexacom_user/helper/price_converter_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/routes.dart';
+import 'package:digitstitch_user/common/widgets/custom_button_widget.dart';
+import 'package:digitstitch_user/features/checkout/providers/checkout_provider.dart';
+import 'package:digitstitch_user/features/coupon/providers/coupon_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/helper/price_converter_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,8 +1,8 @@
-import 'package:hexacom_user/data/datasource/remote/dio/dio_client.dart';
-import 'package:hexacom_user/features/home/screens/home_screen.dart';
-import 'package:hexacom_user/main.dart';
+import 'package:digitstitch_user/data/datasource/remote/dio/dio_client.dart';
+import 'package:digitstitch_user/features/home/screens/home_screen.dart';
+import 'package:digitstitch_user/main.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LocalizationProvider extends ChangeNotifier {

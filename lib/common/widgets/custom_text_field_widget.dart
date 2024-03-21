@@ -1,8 +1,8 @@
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_asset_image_widget.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_asset_image_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/provider/language_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/provider/language_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/services.dart';
 
 class CustomTextFieldWidget extends StatefulWidget {

@@ -1,8 +1,8 @@
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/onboarding_model.dart';
-import 'package:hexacom_user/features/onboarding/domain/reposotories/onboarding_repo.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/onboarding_model.dart';
+import 'package:digitstitch_user/features/onboarding/domain/reposotories/onboarding_repo.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class OnBoardingProvider with ChangeNotifier {

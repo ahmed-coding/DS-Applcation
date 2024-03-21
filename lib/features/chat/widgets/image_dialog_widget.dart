@@ -1,5 +1,5 @@
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/images.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/images.dart';
 import 'package:flutter/material.dart';
 
 class ImageDialogWidget extends StatelessWidget {

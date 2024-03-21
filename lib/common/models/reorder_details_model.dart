@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:hexacom_user/common/models/order_details_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
+import 'package:digitstitch_user/common/models/order_details_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
 
 class ReOrderDetailsModel {
   final List<OrderDetailsModel>? orderDetails;

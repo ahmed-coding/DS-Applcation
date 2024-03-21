@@ -1,8 +1,8 @@
-import 'package:hexacom_user/common/models/config_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/main.dart';
+import 'package:digitstitch_user/common/models/config_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/main.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
 import 'package:provider/provider.dart';
 
 class PriceConverterHelper {

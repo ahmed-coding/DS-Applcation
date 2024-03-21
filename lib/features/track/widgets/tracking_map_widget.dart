@@ -1,10 +1,10 @@
-import 'package:hexacom_user/common/models/config_model.dart';
-import 'package:hexacom_user/common/models/order_model.dart';
-import 'package:hexacom_user/features/track/providers/order_map_provider.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/features/order/providers/order_provider.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/common/models/config_model.dart';
+import 'package:digitstitch_user/common/models/order_model.dart';
+import 'package:digitstitch_user/features/track/providers/order_map_provider.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/features/order/providers/order_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';

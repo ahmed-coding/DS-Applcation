@@ -1,4 +1,4 @@
-import 'package:hexacom_user/provider/theme_provider.dart';
+import 'package:digitstitch_user/provider/theme_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

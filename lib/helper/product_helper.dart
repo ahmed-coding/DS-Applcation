@@ -1,9 +1,9 @@
-import 'package:hexacom_user/common/enums/product_filter_type_enum.dart';
-import 'package:hexacom_user/features/home/domain/models/banner_model.dart';
-import 'package:hexacom_user/common/models/category_model.dart';
-import 'package:hexacom_user/common/models/product_model.dart';
-import 'package:hexacom_user/features/category/providers/category_provider.dart';
-import 'package:hexacom_user/utill/routes.dart';
+import 'package:digitstitch_user/common/enums/product_filter_type_enum.dart';
+import 'package:digitstitch_user/features/home/domain/models/banner_model.dart';
+import 'package:digitstitch_user/common/models/category_model.dart';
+import 'package:digitstitch_user/common/models/product_model.dart';
+import 'package:digitstitch_user/features/category/providers/category_provider.dart';
+import 'package:digitstitch_user/utill/routes.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
 

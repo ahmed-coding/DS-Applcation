@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:hexacom_user/common/models/cart_model.dart';
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/common/models/cart_model.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class CartRepo{

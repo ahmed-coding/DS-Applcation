@@ -1,14 +1,14 @@
 
-import 'package:hexacom_user/features/rate_review/providers/rate_review_provider.dart';
+import 'package:digitstitch_user/features/rate_review/providers/rate_review_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/common/models/order_details_model.dart';
-import 'package:hexacom_user/common/models/order_model.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
-import 'package:hexacom_user/common/widgets/custom_app_bar_widget.dart';
-import 'package:hexacom_user/features/rate_review/widgets/deliver_man_review_widget.dart';
-import 'package:hexacom_user/features/rate_review/widgets/product_review_widget.dart';
+import 'package:digitstitch_user/common/models/order_details_model.dart';
+import 'package:digitstitch_user/common/models/order_model.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
+import 'package:digitstitch_user/common/widgets/custom_app_bar_widget.dart';
+import 'package:digitstitch_user/features/rate_review/widgets/deliver_man_review_widget.dart';
+import 'package:digitstitch_user/features/rate_review/widgets/product_review_widget.dart';
 import 'package:provider/provider.dart';
 
 class RateReviewScreen extends StatefulWidget {

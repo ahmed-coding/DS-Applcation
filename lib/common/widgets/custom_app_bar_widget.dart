@@ -1,9 +1,9 @@
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/common/widgets/web_app_bar_widget.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/common/widgets/web_app_bar_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 
 class CustomAppBarWidget extends StatelessWidget implements PreferredSizeWidget {
   final String? title;

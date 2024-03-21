@@ -1,14 +1,14 @@
 
-import 'package:hexacom_user/common/enums/popup_menu_type_enum.dart';
-import 'package:hexacom_user/common/widgets/cart_count_widget.dart';
-import 'package:hexacom_user/helper/cart_helper.dart';
-import 'package:hexacom_user/features/profile/providers/profile_provider.dart';
-import 'package:hexacom_user/provider/theme_provider.dart';
-import 'package:hexacom_user/features/wishlist/providers/wishlist_provider.dart';
-import 'package:hexacom_user/common/widgets/custom_image_widget.dart';
-import 'package:hexacom_user/common/widgets/on_hover.dart';
-import 'package:hexacom_user/common/widgets/profile_hover_widget.dart';
-import 'package:hexacom_user/common/widgets/theme_switch_button_widget.dart';
+import 'package:digitstitch_user/common/enums/popup_menu_type_enum.dart';
+import 'package:digitstitch_user/common/widgets/cart_count_widget.dart';
+import 'package:digitstitch_user/helper/cart_helper.dart';
+import 'package:digitstitch_user/features/profile/providers/profile_provider.dart';
+import 'package:digitstitch_user/provider/theme_provider.dart';
+import 'package:digitstitch_user/features/wishlist/providers/wishlist_provider.dart';
+import 'package:digitstitch_user/common/widgets/custom_image_widget.dart';
+import 'package:digitstitch_user/common/widgets/on_hover.dart';
+import 'package:digitstitch_user/common/widgets/profile_hover_widget.dart';
+import 'package:digitstitch_user/common/widgets/theme_switch_button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -5,11 +5,11 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:hexacom_user/features/order/domain/models/delivery_man_model.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/utill/images.dart';
+import 'package:digitstitch_user/features/order/domain/models/delivery_man_model.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/utill/images.dart';
 
 
 class OrderMapProvider extends ChangeNotifier {

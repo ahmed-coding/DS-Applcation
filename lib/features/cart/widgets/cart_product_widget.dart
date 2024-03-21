@@ -1,20 +1,20 @@
-import 'package:hexacom_user/features/cart/widgets/cart_bottom_sheet_widget.dart';
-import 'package:hexacom_user/helper/product_helper.dart';
-import 'package:hexacom_user/helper/responsive_helper.dart';
-import 'package:hexacom_user/features/coupon/providers/coupon_provider.dart';
-import 'package:hexacom_user/common/widgets/custom_directionality_widget.dart';
-import 'package:hexacom_user/common/widgets/custom_image_widget.dart';
-import 'package:hexacom_user/helper/custom_snackbar_helper.dart';
+import 'package:digitstitch_user/features/cart/widgets/cart_bottom_sheet_widget.dart';
+import 'package:digitstitch_user/helper/product_helper.dart';
+import 'package:digitstitch_user/helper/responsive_helper.dart';
+import 'package:digitstitch_user/features/coupon/providers/coupon_provider.dart';
+import 'package:digitstitch_user/common/widgets/custom_directionality_widget.dart';
+import 'package:digitstitch_user/common/widgets/custom_image_widget.dart';
+import 'package:digitstitch_user/helper/custom_snackbar_helper.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:hexacom_user/common/models/cart_model.dart';
-import 'package:hexacom_user/helper/price_converter_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/features/cart/providers/cart_provider.dart';
-import 'package:hexacom_user/features/splash/providers/splash_provider.dart';
-import 'package:hexacom_user/utill/color_resources.dart';
-import 'package:hexacom_user/utill/dimensions.dart';
-import 'package:hexacom_user/utill/styles.dart';
+import 'package:digitstitch_user/common/models/cart_model.dart';
+import 'package:digitstitch_user/helper/price_converter_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/features/cart/providers/cart_provider.dart';
+import 'package:digitstitch_user/features/splash/providers/splash_provider.dart';
+import 'package:digitstitch_user/utill/color_resources.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/styles.dart';
 import 'package:provider/provider.dart';
 
 class CartProductWidget extends StatelessWidget {

@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:hexacom_user/common/models/place_order_model.dart';
-import 'package:hexacom_user/common/models/address_model.dart';
-import 'package:hexacom_user/common/models/category_model.dart';
-import 'package:hexacom_user/common/models/order_model.dart';
-import 'package:hexacom_user/common/enums/search_short_by_enum.dart';
+import 'package:digitstitch_user/common/models/place_order_model.dart';
+import 'package:digitstitch_user/common/models/address_model.dart';
+import 'package:digitstitch_user/common/models/category_model.dart';
+import 'package:digitstitch_user/common/models/order_model.dart';
+import 'package:digitstitch_user/common/enums/search_short_by_enum.dart';
 
 class Routes {
 

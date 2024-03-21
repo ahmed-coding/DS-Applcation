@@ -1,4 +1,4 @@
-import 'package:hexacom_user/utill/dimensions.dart';
+import 'package:digitstitch_user/utill/dimensions.dart';
 import 'package:flutter/material.dart';
 
 class CustomShadowWidget extends StatelessWidget {

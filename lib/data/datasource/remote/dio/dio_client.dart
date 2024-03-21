@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:dio/dio.dart';
-import 'package:hexacom_user/data/datasource/remote/dio/logging_interceptor.dart';
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/data/datasource/remote/dio/logging_interceptor.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class DioClient {

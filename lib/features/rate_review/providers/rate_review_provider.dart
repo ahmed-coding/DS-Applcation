@@ -1,12 +1,12 @@
-import 'package:hexacom_user/common/models/api_response_model.dart';
-import 'package:hexacom_user/common/models/order_details_model.dart';
-import 'package:hexacom_user/common/models/response_model.dart';
-import 'package:hexacom_user/common/models/review_body_model.dart';
-import 'package:hexacom_user/common/reposotories/product_repo.dart';
-import 'package:hexacom_user/features/product/domain/models/review_model.dart';
-import 'package:hexacom_user/helper/api_checker_helper.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
+import 'package:digitstitch_user/common/models/api_response_model.dart';
+import 'package:digitstitch_user/common/models/order_details_model.dart';
+import 'package:digitstitch_user/common/models/response_model.dart';
+import 'package:digitstitch_user/common/models/review_body_model.dart';
+import 'package:digitstitch_user/common/reposotories/product_repo.dart';
+import 'package:digitstitch_user/features/product/domain/models/review_model.dart';
+import 'package:digitstitch_user/helper/api_checker_helper.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
 import 'package:flutter/material.dart';
 
 class RateReviewProvider extends ChangeNotifier {

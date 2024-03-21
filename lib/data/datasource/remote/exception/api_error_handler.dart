@@ -1,11 +1,11 @@
 // ignore_for_file: empty_catches
 
 import 'package:dio/dio.dart';
-import 'package:hexacom_user/common/models/error_response_model.dart';
-import 'package:hexacom_user/common/enums/app_mode.dart';
-import 'package:hexacom_user/localization/language_constrants.dart';
-import 'package:hexacom_user/main.dart';
-import 'package:hexacom_user/utill/app_constants.dart';
+import 'package:digitstitch_user/common/models/error_response_model.dart';
+import 'package:digitstitch_user/common/enums/app_mode.dart';
+import 'package:digitstitch_user/localization/language_constrants.dart';
+import 'package:digitstitch_user/main.dart';
+import 'package:digitstitch_user/utill/app_constants.dart';
 import 'package:flutter/foundation.dart';
 
 class ApiErrorHandler {
