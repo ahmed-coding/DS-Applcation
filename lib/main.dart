@@ -60,31 +60,33 @@ Future<void> main() async {
   }
   setPathUrlStrategy();
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  // await FirebaseMessaging.instance.requestPermission();
 
-  if (kIsWeb) {
-    await Firebase.initializeApp(
-        options: const FirebaseOptions(
-        apiKey: "AIzaSyBvAGjA-vsWEB9GNz3bVC2FDDvSgY-wSYM",
-        authDomain: "digitstitch-ded04.firebaseapp.com",
-        projectId: "digitstitch-ded04",
-        storageBucket: "digitstitch-ded04.appspot.com",
-        messagingSenderId: "629310485336",
-        appId: "1:629310485336:web:61757130eb1bf8e6dc6b2d",
-        measurementId: "G-PX7JMDCKNQ"
-    ));
-
-    // await FacebookAuth.instance.webAndDesktopInitialize(
-    //   appId: "3546432684",
-    //   cookie: true,
-    //   xfbml: true,
-    //   version: "v13.0",
-    // );
-  } else {
-    await Firebase.initializeApp();
-    await FirebaseMessaging.instance.requestPermission();
-
-    ///firebase crashlytics
-  }
+  // if (kIsWeb) {
+  //   await Firebase.initializeApp(
+  //       options: const FirebaseOptions(
+  //       apiKey: "AIzaSyBvAGjA-vsWEB9GNz3bVC2FDDvSgY-wSYM",
+  //       authDomain: "digitstitch-ded04.firebaseapp.com",
+  //       projectId: "digitstitch-ded04",
+  //       storageBucket: "digitstitch-ded04.appspot.com",
+  //       messagingSenderId: "629310485336",
+  //       appId: "1:629310485336:web:61757130eb1bf8e6dc6b2d",
+  //       measurementId: "G-PX7JMDCKNQ"
+  //   ));
+  //
+  //   await FacebookAuth.instance.webAndDesktopInitialize(
+  //     appId: "3546432684",
+  //     cookie: true,
+  //     xfbml: true,
+  //     version: "v13.0",
+  //   );
+  // } else {
+  //   await Firebase.initializeApp();
+  //   await FirebaseMessaging.instance.requestPermission();
+  //
+  //   ///firebase crashlytics
+  // }
   await di.init();
   int? orderID;
   try {
